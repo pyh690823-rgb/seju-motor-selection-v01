@@ -1,0 +1,14 @@
+{
+  "version": "V0.1",
+  "archive_models": 67,
+  "mechanisms": [
+    "Ball Screw",
+    "Belt"
+  ],
+  "purpose": "Engineering Rule-based preliminary candidate screening",
+  "missing_from_list": [
+    "57SJM4972-21B"
+  ],
+  "launcher_revision": "V0.1b",
+  "launcher_fix": "Prefer py launcher; avoid WindowsApps python alias"
+}
